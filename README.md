@@ -1,2 +1,2 @@
 # burger
-git init .
+
